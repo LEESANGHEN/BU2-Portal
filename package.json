@@ -1,0 +1,9 @@
+{
+  "name": "bu2-site-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BU2 / 회사 사이트 링크 모음 포털",
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
